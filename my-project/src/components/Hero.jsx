@@ -40,7 +40,7 @@ const SOCIAL_LINKS = [
   { icon: <FaGithub />, label: 'GitHub', url: 'https://github.com', color: 'hover:text-gray-300', bgColor: 'bg-gray-900' },
   { icon: <FaLinkedin />, label: 'LinkedIn', url: 'https://linkedin.com', color: 'hover:text-blue-400', bgColor: 'bg-blue-900/20' },
   { icon: <FaTwitter />, label: 'Twitter', url: 'https://twitter.com', color: 'hover:text-sky-400', bgColor: 'bg-sky-900/20' },
-  { icon: <FaEnvelope />, label: 'Email', url: 'mailto:hello@example.com', color: 'hover:text-red-400', bgColor: 'bg-red-900/20' }
+  { icon: <FaEnvelope />, label: 'Email', url: 'mailto:kashyapchaman852@gmail.com', color: 'hover:text-red-400', bgColor: 'bg-red-900/20' }
 ];
 
 const TECH_STACK = [
